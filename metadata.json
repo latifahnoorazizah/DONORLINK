@@ -1,0 +1,7 @@
+{
+  "name": "DONORLINK - Koordinasi & Pendataan Donor Darah",
+  "description": "Platform kolaboratif pendataan pendonor darah sukarela dan pencocokan kebutuhan darah darurat terverifikasi untuk masyarakat Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
